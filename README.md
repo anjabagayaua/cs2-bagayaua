@@ -36,6 +36,3 @@ The distance between the two points is: 7.07
 
 Anja Katarina Dominique M. Bagayaua
 8-Sampaguita
-Name: Juan Dela Cruz
-
-Section: 8-Sampaguita
